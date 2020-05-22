@@ -1,5 +1,5 @@
 <template>
-  <h1>Salam Vue</h1> 
+<h1>Salam Nodejs</h1>
 </template>
 
 <script>
